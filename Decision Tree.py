@@ -1,10 +1,4 @@
 
-  
-"""
-Created on Tue Mar  3 10:33:43 2020
-
-@author: Soodabeh
-"""
 
 import math
 import random
